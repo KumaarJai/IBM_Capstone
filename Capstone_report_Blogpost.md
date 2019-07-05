@@ -71,7 +71,7 @@ Also more number of immigrants would get the hint of their community presence th
 _On directing our efforts on detecting areas of Vancouver that have low restaurant density. In first step we have collected the required data: location and type (category) of every restaurant in from Vancouver centre. We have also identified Asian restaurants (according to foursquare categorization). Second step in our analysis is exploration of different areas of Vancouver - we will calculate the count of each venue category in a given area, which gives us a basic understanding of the type of the area. Third step is to rank top 10 venues in every neighbourhood to get a proper view of the neighbourhood._
 
 
-![Feature selection](top5pic.PNG)
+![Feature selection](top5pic.png)
 
 
 _In fourth and final step we will focus on most promising areas by creating clusters of locations that are of similar type: we will take into consideration locations with no more than two restaurants, and we want locations without Indian restaurants. We will create clusters (using k-means clustering) and present map of all such locations._
@@ -80,7 +80,7 @@ _In fourth and final step we will focus on most promising areas by creating clus
 
 _Looking at the cluster markings on the map below gives us an idea that the Purple areas are of similar type and Vancouver being one of the most developed and populated cities in British Columbia would be difficult to consider opening a new restaurant as it would already be crowded of many others. We see the same looking at the dataset for the cluster label 1 which is purple on the map. It confirms our assumption. It has a huge number of Asian restaurants_
 
-![clusterMap2](clusterMap2.PNG)
+![clusterMap2](clusterMap2.png)
 
 _The neighbourhoods marked as 1, 3 and 4 in red, cyan and sky seems to be the best place to open a new Indian restaurant business as they have a very low density on restaurants._
 
@@ -88,7 +88,7 @@ _The neighbourhoods marked as 1, 3 and 4 in red, cyan and sky seems to be the be
 _To verify our findings we can look at the data below, we don’t have a competition in this region and it also appears to be a residential area:_
 
 
-![finalClusterData](finalClusterData.PNG)
+![finalClusterData](finalClusterData.png)
 
 ## CONCLUSION
 

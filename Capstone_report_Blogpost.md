@@ -64,7 +64,7 @@ Using the value_counts() function neighborhoodDF['Borough'].value_counts() we ca
 Also more number of immigrants would get the hint of their community presence there which would help immigrant population spread out of the populated area
 
 
-![Feature selection](vancuSelect.PNG)
+![Feature selection](vancuSelect.png)
 
 ## 4. METHODOLOGY
 

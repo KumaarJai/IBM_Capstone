@@ -1,2 +1,2 @@
 # IBM_Capstone
-Coursera_Capstone project
+Data Science Certification Capstone project
